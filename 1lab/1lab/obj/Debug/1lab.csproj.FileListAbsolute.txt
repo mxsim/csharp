@@ -1,0 +1,11 @@
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\bin\Debug\1lab.exe.config
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\bin\Debug\1lab.exe
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\bin\Debug\1lab.pdb
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\obj\Debug\1lab.csproj.AssemblyReference.cache
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\obj\Debug\_1lab.Form1.resources
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\obj\Debug\_1lab.Properties.Resources.resources
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\obj\Debug\1lab.csproj.GenerateResource.cache
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\obj\Debug\1lab.csproj.CoreCompileInputs.cache
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\obj\Debug\1lab.exe
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\obj\Debug\1lab.pdb
+C:\Users\adm\OneDrive\Documents\VS\C#\1lab\1lab\obj\Debug\1lab.csproj.SuggestedBindingRedirects.cache
