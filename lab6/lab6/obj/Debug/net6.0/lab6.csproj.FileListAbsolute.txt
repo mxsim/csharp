@@ -1,0 +1,15 @@
+G:\vscode\C#Projects\lab6\lab6\bin\Debug\net6.0\lab6.exe
+G:\vscode\C#Projects\lab6\lab6\bin\Debug\net6.0\lab6.deps.json
+G:\vscode\C#Projects\lab6\lab6\bin\Debug\net6.0\lab6.runtimeconfig.json
+G:\vscode\C#Projects\lab6\lab6\bin\Debug\net6.0\lab6.dll
+G:\vscode\C#Projects\lab6\lab6\bin\Debug\net6.0\lab6.pdb
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\lab6.csproj.AssemblyReference.cache
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfoInputs.cache
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\lab6.AssemblyInfo.cs
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\lab6.csproj.CoreCompileInputs.cache
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\lab6.dll
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\refint\lab6.dll
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\lab6.pdb
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\lab6.genruntimeconfig.cache
+G:\vscode\C#Projects\lab6\lab6\obj\Debug\net6.0\ref\lab6.dll
